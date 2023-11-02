@@ -2,6 +2,8 @@
 (Fall 2023) Codes and notebooks for quant analyst lectures. Presentations will be sent out via Slack after lecture.
 
 ### How to get started:
+
+#### VSCode or Jupyter Notebooks
 0) If you are not familiar with Git, please refer to this [repository](https://github.com/bualpha/learn-git) and/or other online resources to set up Git.
 1) Fork this repository, so you can have a copy on your own GitHub (remote).
 2) In your terminal app, go into your desired storage location by using `cd <your/desired/directory/>`, i.e. where would you like to store or download this repo?
@@ -11,6 +13,12 @@
 7) To push your changes from your local machine to your remote repository (your GitHub account), use `git push`.
 
 *Note: Commands for Powershell (CMD) on Windows might be different from MacOS and Linux.*
+
+#### GitHub Codespaces
+0) If you are not familiar with Git, please refer to this [repository](https://github.com/bualpha/learn-git) and/or other online resources to set up Git.
+1) Fork this repository, so you can have a copy on your own GitHub (remote).
+2) In your forked repository, you can open up codespaces under `<> Code` > `Codespaces`.
+3) Edit and commit and push as needed. It works just like VSCode.
 
 ### Repository covers:
 * Intro to numpy, pandas, matplotlib and other Python data science libraries
